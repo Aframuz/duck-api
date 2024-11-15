@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "express": "^4.21.1",
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "pre-commit": "^1.2.2",
+    "rimraf": "^6.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.14.0",
@@ -31,5 +33,10 @@
   ],
   "author": "Aframuz",
   "license": "ISC",
-  "description": "Duck API for ChilePasajes"
+  "description": "Duck API for ChilePasajes",
+  "pre-commit": [
+    "ts.check",
+    "build", 
+    "add-build"
+  ]
 }
