@@ -1,0 +1,1 @@
+{"version":3,"file":"DuckError.js","sourceRoot":"","sources":["../../../src/domain/errors/DuckError.ts"],"names":[],"mappings":";;;AAAA,MAAa,SAAU,SAAQ,KAAK;IAChC,YAAY,OAAe,EAAkB,OAAe,GAAG;QAC3D,KAAK,CAAC,OAAO,CAAC,CAAC;QAD0B,SAAI,GAAJ,IAAI,CAAc;QAE3D,IAAI,CAAC,IAAI,GAAG,iBAAiB,CAAA;IACjC,CAAC;CACJ;AALD,8BAKC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Duck.js","sourceRoot":"","sources":["../../../src/domain/entities/Duck.ts"],"names":[],"mappings":";;;AAAA,MAAa,IAAI;IACb,YAAoB,EAAU,EAAU,GAAW;QAA/B,OAAE,GAAF,EAAE,CAAQ;QAAU,QAAG,GAAH,GAAG,CAAQ;IAAG,CAAC;IAEvD,KAAK;QACD,OAAO,IAAI,CAAC,EAAE,CAAA;IAClB,CAAC;IAED,MAAM;QACF,OAAO,IAAI,CAAC,GAAG,CAAA;IACnB,CAAC;CACJ;AAVD,oBAUC"}
