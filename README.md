@@ -2,6 +2,5 @@
 [Live Demo](https://duck-api-ten.vercel.app)
 
 Para levantar proyecto:
-1. levantar Duck API
-2. `npm install`
-3. `npm run start`
+1. `npm install`
+2. `npm run start`
